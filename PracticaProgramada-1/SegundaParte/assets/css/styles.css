@@ -1,0 +1,85 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #3a0ed7;
+  padding: 15px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: wavy;
+  margin: 0 15px;
+}
+
+.navbar a:hover {
+  color: #87c4f0;
+}
+
+.perfil-doctor {
+  text-align: center;
+  padding: 30px;
+}
+
+.nombre {
+  color: #082cfd;
+  font-size: 28px;
+}
+
+.especialidad {
+  color: #0484c5;
+  margin-top: -10px;
+}
+
+#descripcion {
+  max-width: 600px;
+  margin: 10px auto;
+  font-size: 16px;
+}
+
+.btn-agendar {
+  background-color: #0711c8;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  
+}
+
+.comentarios {
+  background-color: #3636b3;
+  padding: 20px;
+  text-align: center;
+}
+
+.tarjetas {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+
+}
+
+.tarjeta {
+  background: #f9f9fa;
+  border: 5px solid #5eabf9;
+  border-radius: 100px;
+  padding: 15px;
+  width: 250px;
+}
+
+.tarjeta h4 {
+  margin: 0;
+  color: #010c12;
+}
+
+.tarjeta h5 {
+  font-size: 12px;
+  color: rgb(14, 0, 0);
+}
