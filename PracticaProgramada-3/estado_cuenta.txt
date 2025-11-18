@@ -1,0 +1,10 @@
+ESTADO DE CUENTA
+---------------------------
+ID 1 - Duki - ₡12000
+ID 2 - Duki - ₡12000
+ID 3 - Celulares - ₡30000000
+---------------------------
+Total Contado: ₡30,024,000.00
+Total con 2.6% interés: ₡30,804,624.00
+Cashback 0.1%: ₡30,024.00
+Monto Final a Pagar: ₡30,774,600.00
